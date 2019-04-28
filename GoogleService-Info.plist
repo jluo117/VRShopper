@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>899668206356-p1fm5707fv8iel8k49u056vtfas89oh7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.899668206356-p1fm5707fv8iel8k49u056vtfas89oh7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq-ano3Lgi8DK-IKOYT7_1TTX7QrU1d7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>899668206356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>klee</string>
+	<key>PROJECT_ID</key>
+	<string>vrshopping-80222</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vrshopping-80222.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:899668206356:ios:d5be2085a9edd48f</string>
+	<key>DATABASE_URL</key>
+	<string>https://vrshopping-80222.firebaseio.com</string>
+</dict>
+</plist>
